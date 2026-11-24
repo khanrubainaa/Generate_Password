@@ -24,7 +24,7 @@ A Python command-line project that generates random passwords and checks passwor
 - any() and len()
 - Exception handling
 
-# How to Run
+## How to Run
 
 1. Open the project folder in VS Code.
 2. Open the terminal.
